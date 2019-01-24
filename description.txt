@@ -1,0 +1,3 @@
+K&M bullets is a PvP bullethell game based around good movement. A pvp bullethell game already exists in Spell and Maiden https://www.youtube.com/watch?v=81W30oc4Lx8 but the movement in this game is sorely lacking. We would like to combine the momentum based movement in a game such as bangai-o spirits combined with the wall / ground movement of smash bros melee’s wavedashing to allow faster ground movement and to increase the skill gap.
+
+The maps would be a hexagon with some platforms in the middle although we need to sketch out what these would look like or hopefully get some testplayers up to see what works best.

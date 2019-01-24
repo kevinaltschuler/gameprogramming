@@ -1,0 +1,19 @@
+Checkpoint 1
+Both players can move and shoot: M 
+Players can shoot: M 
+Players can take damage: S
+Map exists, players snap to walls: C 
+
+Checkpoint 2
+Fully implemented combat mechanics: M
+Map exists, players snap to walls: M
+Airdodging: S 
+wavedashing: S
+Player trails like https://www.youtube.com/watch?v=fwXBdb2eXdE : C
+
+Final
+Airdodging and Wavedashing: M
+Art and sound: M 
+Custom Menu: S
+Custom Options: C 
+Controller support: S 
